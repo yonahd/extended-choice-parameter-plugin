@@ -88,15 +88,25 @@ set to the specified Jenkins project.
 
 ### groovyScript
 
+A groovy script used to generate the list of values.
+
 ### groovyScriptFile
+
+A file containing a groovy script used to generate the list of values.
+
+### defaultGroovyScript
+
+A groovy script used to generate the list of values used in the
+initial selection of the single-select or mult-select box.
+
+### defaultGroovyScriptFile
+
+A file containing a groovy script used to generate the list of values used in the
+initial selection of the single-select or mult-select box.
 
 ### bindings
 
 ### groovyClasspath
-
-### defaultGroovyScript
-
-### defaultGroovyScriptFile
 
 ### defaultBindings
 
